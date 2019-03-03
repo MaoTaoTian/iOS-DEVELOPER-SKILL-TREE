@@ -1,5 +1,5 @@
 # iOS-DEVELOPER-SKILL-TREE
-Skill tree to becoming an iOS developer
+> 定期整理自己应该掌握哪些技能树，并思考如何规划以后横向或纵向的学习路线。
 
 #### 参考来源
 - [BohdanOrlov/iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
