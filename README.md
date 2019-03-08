@@ -9,7 +9,9 @@
 - [内存管理](memory-management.md)
 
 
-
+### 专栏
+- [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips)by iOS知识小集
+- [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)by 老司机iOS周报
 
 
 
