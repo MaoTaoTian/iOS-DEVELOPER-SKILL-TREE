@@ -6,7 +6,8 @@
 ## 编程语言
 ### Objective-C
 - [内存管理](memory-management.md)
-- [Block](Block.md)
+- [Block](block.md)
+- [多线程](multithreading.md)
 
 
 ### 专栏
