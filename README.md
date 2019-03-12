@@ -19,6 +19,7 @@
 ### 专栏
 - [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips)by iOS知识小集
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)by 老司机iOS周报
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
 
 ### 友链
 - [ShannonChenCHN/iOSDevLevelingUp](https://github.com/ShannonChenCHN/iOSDevLevelingUp)
