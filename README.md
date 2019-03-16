@@ -3,17 +3,17 @@
 
 聚焦：体系化方式学习
 
-## 编程语言
-### Objective-C
-- [内存管理](memory-management.md)
-- [Block](block.md)
-- [多线程](multithreading.md)
-- [KVO && KVC](kvc-kvo.md)
-- [protocol](protocol.md)
-- [runtime](runtime.md)
-- [runloop](runloop.md)
-- [锁](lock.md)
-- [dylib](dylib.md)
+#### 编程语言
+- Objective-C
+  - [内存管理](memory-management.md)
+  - [Block](block.md)
+  - [多线程](multithreading.md)
+  - [KVO && KVC](kvc-kvo.md)
+  - [protocol](protocol.md)
+  - [runtime](runtime.md)
+  - [runloop](runloop.md)
+  - [锁](lock.md)
+  - [dylib](dylib.md)
 
 
 
