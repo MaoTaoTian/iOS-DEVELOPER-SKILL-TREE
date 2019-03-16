@@ -15,4 +15,6 @@ article list | abstract
 [GeekBand.iOS-多线程编程](http://zhanjingbo.site/14614801701186.html) by zhanjingbo |
 [iOS多线程全套：线程生命周期，多线程的四种解决方案，线程安全问题，GCD的使用，NSOperation的使用](http://www.cocoachina.com/ios/20170707/19769.html) by wuhao丶  |
 [iOS 中网络请求同步](https://tingxins.com/2017/04/synchronous-gcd/) by tingxins | 
-
+[iOS多线程-GCD之dispatch_barrier_async](https://www.jianshu.com/p/d63c3100dd63) by Autolying | waring |
+[使用dispatch_group来进行线程同步](https://www.jianshu.com/p/228403206664) by liang1991 |
+[13 个 GCD 应用场景](https://juejin.im/post/5a38c19c6fb9a0450809c77c) by 薛定諤 |
