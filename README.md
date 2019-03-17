@@ -13,7 +13,7 @@
   - [runtime](runtime.md)
   - [runloop](runloop.md)
   - [锁](lock.md)
-  - [dylib](dylib.md)
+  - [Mach-O](mach-o.md)
 
 #### 基础
 - 知识点
