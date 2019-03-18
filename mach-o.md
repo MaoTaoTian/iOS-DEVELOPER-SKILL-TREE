@@ -1,4 +1,4 @@
-key: Mach-O / MachOView
+key: Mach-O / MachOView / dyld
 
 #### 参考文章
 article list | abstract
@@ -11,3 +11,8 @@ article list | abstract
 [dyld与ObjC](https://blog.cnbluebox.com/blog/2017/06/20/dyldyu-objc/) by 刘坤 |
 [通过 Mach-O 文件动态分析进行 iOS load 方法耗时检测](https://juejin.im/post/5c0bb2e8e51d4529ee233fee) by 
 CoderLin |
+[objc category的秘密](https://blog.sunnyxx.com/2014/03/05/objc_category_secret/) by sunnyxx |
+[dyld背后的故事&源码分析](https://juejin.im/post/5c727262e51d457139116208#heading-7) by 
+小可长江 |
+[iOS逆向(5)-不知MachO怎敢说自己懂DYLD](https://juejin.im/post/5c8e6f5c518825458b3ba6a4) by 
+iOS风扬 |
