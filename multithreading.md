@@ -18,3 +18,5 @@ article list | abstract
 [iOS多线程-GCD之dispatch_barrier_async](https://www.jianshu.com/p/d63c3100dd63) by Autolying | waring |
 [使用dispatch_group来进行线程同步](https://www.jianshu.com/p/228403206664) by liang1991 |
 [13 个 GCD 应用场景](https://juejin.im/post/5a38c19c6fb9a0450809c77c) by 薛定諤 |
+[iOS GCD中级篇 - dispatch_semaphore（信号量）的理解及使用](https://www.cnblogs.com/yajunLi/p/6274282.html) by 纠结的哈士奇 | dispatch_semaphore的理解 |
+[在CGD中快速实现多线程的并发控制](http://www.tanhao.me/pieces/392.html/) by tanhao |
