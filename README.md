@@ -22,6 +22,7 @@
 - 开发阶段
   - [启动流程](start.md)
   - [性能监控](performance-monitor.md)
+  - [调试知识](debug.md)
   - 单元测试
 
 - UI

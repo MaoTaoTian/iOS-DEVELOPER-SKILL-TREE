@@ -3,6 +3,7 @@
 #### 参考文章
 article list | abstract
 :-- | :--:
+[iOS 并发编程之 Operation Queues](http://blog.leichunfeng.com/blog/2015/07/29/ios-concurrency-programming-operation-queues/) by leichunfeng |
 [使用GCD](http://blog.devtang.com/2012/02/22/use-gcd/) by devtang |
 [Cocoa 并发编程](https://hit-alibaba.github.io/interview/iOS/Cocoa-Touch/Multithreading.html) by hit-alibaba |
 [Parse的底层多线程处理思路](https://github.com/ChenYilong/ParseSourceCodeStudy/blob/master/01_Parse%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%A4%84%E7%90%86%E6%80%9D%E8%B7%AF/Parse%E7%9A%84%E5%BA%95%E5%B1%82%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%A4%84%E7%90%86%E6%80%9D%E8%B7%AF.md) by ChenYilong |
