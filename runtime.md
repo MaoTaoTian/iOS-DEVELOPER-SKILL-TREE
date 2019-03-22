@@ -22,4 +22,7 @@ article list | abstract
 [Objective-C Runtime 运行时之一：类与对象](http://southpeak.github.io/2014/10/25/objective-c-runtime-1/) by southpeak |
 [重识 Objective-C Runtime - 看透 Type 与 Value](http://blog.sunnyxx.com/2016/08/13/reunderstanding-runtime-1/) by sunnyxx |
 [iOS 模块详解—「Runtime面试、工作」看我就 🐒 了 ^_^.](https://juejin.im/entry/590832eb5c497d00584ddcb7) by CoderLN |
+[从 NSObject 的初始化了解 isa](https://draveness.me/isa) by draveness |
 [Objective-C NSInvocation](https://ace.re/2017/objective-c-nsinvocation.html) by ace |
+[Associated Objects](https://nshipster.cn/associated-objects/) by nshipster |
+[Objective-C Associated Objects 的实现原理](http://blog.leichunfeng.com/blog/2015/06/26/objective-c-associated-objects-implementation-principle/) by leichunfeng |

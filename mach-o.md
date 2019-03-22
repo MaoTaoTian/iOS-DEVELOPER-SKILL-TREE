@@ -19,3 +19,4 @@ article list | abstract
 [iOS逆向(5)-不知MachO怎敢说自己懂DYLD](https://juejin.im/post/5c8e6f5c518825458b3ba6a4) by iOS风扬 |
 [iOS简单逆向之：Class-Dump、Hopper](https://www.jianshu.com/p/85d951941c45) by 甘邦 |
 [反汇编的利器 IDA 和 Hopper 的基本使用](http://niyaoyao.me/2017/01/18/Learning-Reverse-From-Today-D3/) by niyaoyao |
+[What's New in LLVM](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/) by yulingtianxia |
