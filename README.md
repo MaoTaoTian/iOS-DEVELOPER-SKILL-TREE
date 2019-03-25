@@ -4,7 +4,7 @@
 聚焦：体系化方式学习
 
 #### 编程语言
-- Objective-C
+- [Objective-C](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/ObjectiveC.html)
   - [内存管理](memory-management.md)
   - [Block](block.md)
   - [多线程](multithreading.md)

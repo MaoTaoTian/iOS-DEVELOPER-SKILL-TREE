@@ -19,4 +19,4 @@ article list | abstract
 [RunLoop和autorelease的一道面试题](https://www.bbsmax.com/A/A2dmvYqzen/) by bbsmax |
 [Objective-C runtime机制(5)——iOS 内存管理](http://www.voidcn.com/article/p-flbhisbz-bry.html) by voidcn |
 [NSTimer循环引用的几种解决方案](https://juejin.im/post/5b641fc46fb9a04fd16033e7) by zhouyangyng |
-[iOS | 小心NSTimer中的内存泄漏](https://www.jianshu.com/p/2fe076e5e255) by Mrshang110 |
+[小心NSTimer中的内存泄漏](https://www.jianshu.com/p/2fe076e5e255) by Mrshang110 |

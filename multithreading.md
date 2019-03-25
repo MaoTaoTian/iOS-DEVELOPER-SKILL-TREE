@@ -21,3 +21,6 @@ article list | abstract
 [13 个 GCD 应用场景](https://juejin.im/post/5a38c19c6fb9a0450809c77c) by 薛定諤 |
 [iOS GCD中级篇 - dispatch_semaphore（信号量）的理解及使用](https://www.cnblogs.com/yajunLi/p/6274282.html) by 纠结的哈士奇 | dispatch_semaphore的理解 |
 [在CGD中快速实现多线程的并发控制](http://www.tanhao.me/pieces/392.html/) by tanhao |
+[GCD概要及实现原理](https://github.com/shujucn/ioscoding/wiki/GCD%E6%A6%82%E8%A6%81%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86) by shujucn |
+[深入理解 GCD](https://bestswifter.com/deep-gcd/) by bestswifter |
+[深入浅出 GCD 之 dispatch_source](https://xiaozhuanlan.com/topic/9481560732) by 陈爱彬 | gcd timer实现原理 |
